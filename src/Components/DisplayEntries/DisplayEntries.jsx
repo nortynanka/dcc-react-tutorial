@@ -2,7 +2,7 @@ import React from "react";
 
 const DisplayEntries = (props) => {
     return ( 
-        <table>
+        <table className="table">
 
             <thead>
             <tr>
